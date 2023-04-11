@@ -1,7 +1,7 @@
 # Plotly Dashboard
 ## A web-based dashboard for visualizing data about the demographics of China.
 Submitted for the final assignment in the Data Visualization course at in the nine-month AI program at ITI Mansoura.
-![Screenshot](https://i.imgur.com/I0jMyKQ.png)
+![Screenshot](https://i.imgur.com/uZTvNMG.png)
 
 ## Features
 1. Css Bootstrap stylesheet
