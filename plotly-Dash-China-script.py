@@ -472,7 +472,12 @@ title = dbc.Row([
     dbc.CardGroup([
                 dbc.Card(
                     dbc.CardBody([dbc.Row([
-                        html.H1("China's Demographics is a Ticking Time Bomb", style=title_style),])
+                        
+                      dbc.Col([
+                        html.Img(src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+                                 , style={'height':'40px', 'width':'60px'}), ], width=1),  
+                      dbc.Col([    html.H1("China's Demographics is a Ticking Time Bomb", style=title_style), ]),
+                    ])
                                 ]))  ],
                 style = {'margin-left':'0px','margin-right':'0px','margin-up':'0px', 'margin-top':'0px',"text-align":"center", 'padding-right':'0px'},
                 className="mt-0 shadow") ], width=11, style={'padding-right':'0px'}) ,
