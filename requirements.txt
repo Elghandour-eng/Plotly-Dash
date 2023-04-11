@@ -3,3 +3,4 @@ plotly
 dash 
 dash_bootstrap_components
 gunicorn
+ipywidgets>=7.0.0
