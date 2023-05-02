@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AmgadHasan/Plotly-Dash/HEAD)
 # Plotly Dashboard
 ## A web-based dashboard for visualizing data about the demographics of China.
 Submitted for the final assignment in the Data Visualization course at in the nine-month AI program at ITI Mansoura.
